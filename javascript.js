@@ -1,0 +1,1 @@
+alert("mon javascript pour les tests de git");

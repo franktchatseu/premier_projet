@@ -1,0 +1,26 @@
+body h1{
+		text-align: center;
+		font-weight: bold;
+		color: #fff;
+		margin-top: 50px;
+
+	}
+	body{
+		background-color: gray;
+	}
+	table{
+		margin-left: 32%;
+		border:2px;
+		width: 400px;
+		height: 40px;
+
+
+
+	}
+	th{
+		background-color: green;
+	}
+	th,td{
+		padding: 0px;
+		color: white;
+	}
